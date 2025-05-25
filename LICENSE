@@ -1,21 +1,18 @@
-MIT License
-
 Copyright (c) 2025 eightballz
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the “Software”) to use, modify, and distribute the Software, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Visible Credit
+You must provide visible credit to the original author, eightballz, in any public-facing instance where this Software is used (such as in a server help menu, credits section, or official Discord). This credit must include a link to the GitHub repository:
+https://github.com/your-repo-link
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. No Monetization Without Permission
+You may not sell, monetize, or otherwise profit from this Software or any derivative works without explicit, written permission from eightballz.
+
+3. Support Policy
+Support will only be provided to users who meet the crediting and non-commercial requirements above. Support is offered at the discretion of the author and is not guaranteed.
+
+4. Third-Party Dependencies
+The author does not provide premium or proprietary plugins required for this Software to function. It is your responsibility to obtain these dependencies legally.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
