@@ -11,6 +11,7 @@ This repo contains the UltraCustomizer source scripts for the Origin Zero Minecr
 - ImageFrame
 - Vehicles
 - Lands
+- QualityArmory
 
 ## How to use
 1. Start your server with all dependencies installed
