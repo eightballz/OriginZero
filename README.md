@@ -3,7 +3,7 @@ This repo contains the UltraCustomizer source scripts for the Origin Zero Minecr
 
 ## Dependencies
 - EssentialsX
-- UltraCustomizer
+- UltraCustomizer (and addons)
 - PlaceholderAPI
 - Citizens
 - Sentinel
